@@ -7,4 +7,5 @@ en Program example
 
 
 ru Пример работы программы
+
 ![Example](https://github.com/Gandalf329/ConverterWinForms/blob/master/images/Screenshot_1.png)
